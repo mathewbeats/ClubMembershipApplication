@@ -1,0 +1,12 @@
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\bin\Debug\net6.0\FieldValidatorAPI.deps.json
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\bin\Debug\net6.0\FieldValidatorAPI.dll
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\bin\Debug\net6.0\FieldValidatorAPI.pdb
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.AssemblyInfo.cs
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.dll
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\obj\Debug\net6.0\refint\FieldValidatorAPI.dll
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\obj\Debug\net6.0\FieldValidatorAPI.pdb
+C:\Users\alexm\source\repos\ClubMembershipApplication-DelegatesTutorial2\FieldValidatorAPI\obj\Debug\net6.0\ref\FieldValidatorAPI.dll
